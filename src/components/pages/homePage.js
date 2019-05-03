@@ -1,6 +1,6 @@
 // Imports
 import React from 'react';
-import logo from '../../Assets/images/kwLogo.png';
+//import logo from '../../Assets/images/kwLogo.png';
 //import './App.css';
 
 // Const for styling
