@@ -1,12 +1,13 @@
 {
   "name": "realestate",
-  "homepage": "https://WilliamBork33.github.io/realestate/",
   "version": "0.1.0",
   "private": true,
+ 
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-scripts": "3.0.0",
+    "react-router-dom": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -32,6 +33,7 @@
     ]
   },
   "devDependencies": {
+    "express": "^4.16.4",
     "gh-pages": "^2.0.1",
     "gulp": "^4.0.1",
     "gulp-changed": "^3.2.0",
