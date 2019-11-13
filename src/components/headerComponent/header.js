@@ -22,7 +22,7 @@ function Header() {
       <div className="container-fluid" style={StyleContainer}>
         <div className="logo">
           <Link to={"/"}>
-            <img src={logo} style={StyleLogo} alt="Logo" />
+            <img src={logo} style={StyleLogo} alt="Logos Yes" />
           </Link>
         </div>
         <nav>
