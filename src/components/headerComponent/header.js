@@ -28,7 +28,7 @@ function Header() {
         <nav>
           <ul>
             <li className="first">
-              <Link to="/">Homee</Link>
+              <Link to="/">Home</Link>
             </li>
             <li>
               <Link to="/yolanda">Yolanda</Link>
