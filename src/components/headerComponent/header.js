@@ -27,8 +27,8 @@ function Header() {
         </div>
         <nav>
           <ul>
-            <li className="first">
-              <Link to="/">Homeeee</Link>
+            <li className="first">       
+              <Link to="/">Home</Link>
             </li>
             <li>
               <Link to="/yolanda">Yolanda</Link>
